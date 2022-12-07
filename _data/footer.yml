@@ -7,13 +7,15 @@ contact:
   - name: AISF Trento
     mail: trento@ai-sf.it
   - name: Contact person
-    mail: zeno.bacciconi@ai-sf.it
+    mail: nicolaarsienio.lodi@ai-sf.it
 
 
 
 connect:
   - name: Facebook
     url: https://www.facebook.com/AisfTrento/
+  - name: Instagram
+    url: https://instagram.com/aisf_trento/
 
 creator:
   - name: Elisa Garabello
