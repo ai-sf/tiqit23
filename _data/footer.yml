@@ -14,8 +14,10 @@ contact:
 connect:
   - name: Facebook
     url: https://www.facebook.com/AisfTrento/
+    img: "img/fb_logo.png"
   - name: Instagram
     url: https://instagram.com/aisf_trento/
+    img: "img/ig_logo.png"
 
 creator:
   - name: Elisa Garabello
