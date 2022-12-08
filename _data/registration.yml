@@ -45,4 +45,6 @@ sections:
         - text: "Students non accepted will be notified as well, and they will have the possiblity to partecipate in case spots are still free after the first payment period."
 
     - name: "Registration Form"
-      - text: "Soon to be open"
+      info: ""
+      points:
+        - text: "Soon to be open"
