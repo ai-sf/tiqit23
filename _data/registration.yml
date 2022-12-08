@@ -2,7 +2,7 @@ description:
     title: "General infos"
     paragraphs:
         - paragraph:
-            - line: "Registrations will be open from December 12<sup>th</sup> at 12:00."
+            - line: "1<sup>st</sup> round of registration will be open from January 1<sup>st</sup> at 00:00 until January 21<sup>st</sup> at 23:59."
         - paragraph:
             - line: "You can find the registration form at the bottom of this page."
             - line: "Please read the terms and conditions below. Please note that, upon registration, you will be asked for personal details (such as name, surname, date of birth, university affiliation, etc.) and a motivational letter."
@@ -11,15 +11,16 @@ sections:
     - name: "Selection"
       info: ""
       points:
-        - text: "In order to enroll to the event you must be an IAPS member (if you are an AISF member, you are automatically an IAPS member)."
-        - text: "Note: if you are Italian and you are not an AISF member yet you can become an AISF member at the following link:"
-          -url: "https://ai-sf.it/iscrizione/"
-        - text: "Note: if you are not Italian and you are not an IAPS member, please contact your National Committee for your IAPS registration."
-        - text: "50 places are available.
+        - text: "In order to enroll to the event you must be an IAPS member or an Innsbruck member."
+        - text: "Note: if you are Italian and you are not an IAPS/AISF member yet you can become an AISF member while registering for this event: you need to fill in this module and after being selected make a single payment including both the quotes. Being an AISF member you also get the membership to IAPS "
+          url: "http://ai-sf.it/iscrizione"
+          button: Form
+        - text: "50 places are available, of whom approximately half will be for AISF members.
                  <br>The selected candidates will have to cover a participation fee of €70.
-                 <br>10 spots will be assigned to Trento Local Committee members who will be able to access to the event with a reduced fee (without accomodation in Trento) of 40€.
-                 <br>10 spots will be assigned to University of Innsbruck students."
-        - text: "<br> Due to the level of the program, among the selection criteria priority will be given to students who have been attending at least the third year of bachelor and who possess a basic knowledge of Quantum Physics."
+                 <br>10 spots will be assigned to Trento Local Committee members who will be able to access to the event with a reduced fee (without accomodation in Trento) of 50€
+                 <br>10 spots will be assigned to University of Innsbruck students, who will be able to access to the event with a reduced fee (without accomodation in Innsbruck) of 50€"
+        - text: "Priority will be given to students who haven't participated to TIQIT previous editions.
+                 <br> Due to the level of the program, among the selection criteria priority will be given to students who have been attending at least the third year of bachelor and who possess a basic knowledge of Quantum Physics."
         - text: "Please note that unfortunately we are not able to provide scholarships and/or bursaries for any students at this time."
 
     - name: "Terms"
@@ -27,7 +28,7 @@ sections:
       points:
         - text: "All personal data will be handled confidentially and in compliance with the European (GDPR EU 2016/679) and Italian (Art. 13 D. Lgs. 196/2003) data and privacy protection laws."
         - text: "Only students enrolled in a university or similar institution on a physics or physics-related course, as well as up to twelve months after receiving a degree from a university are able to participate in this event. You confirm that you will be at least 18 years of age by the 3rd of December, 2022."
-        - text: "You acknowledge and agree that the Organising Committee, the Italian Association of Physics Students (AISF), the International Association of Physics Students (IAPS), and the hosts of the event have no responsibility whatsoever for injuries, losses, or damages of any kind that result from your participation at the Trento Innsbruck Quantum Information Tour 2023."
+        - text: "You acknowledge and agree that the Organising Committee, the Italian Association of Physics Students (AISF), the International Association of Physics Students (IAPS), and the hosts of the event have no responsibility whatsoever for injuries, losses, or damages of any kind that result from your participation in the Astroparticle Physics Autumn Programme 2019."
         - text: "You accept the IAPS Code of Conduct."
           url: "files/IAPS_Code_of_Conduct.pdf"
           button: "PDF"
@@ -43,6 +44,3 @@ sections:
         - text: "Once the registration are closed, the organizing comittee will select the participants"
         - text: "Selected partecipants will be notified within one week from the registration closing, then the event fee will have to be paid in 7 days to confirm the participation"
         - text: "Students non accepted will be notified as well, and they will have the possiblity to partecipate in case spots are still free after the first payment period."
-
-    - name: "Registration Form"
-      - text: "Soon to be open"
