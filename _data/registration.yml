@@ -15,11 +15,12 @@ sections:
         - text: "Note: if you are Italian and you are not an AISF member yet you can become an AISF member at <a href='https://ai-sf.it/iscrizione/'>this</a> link."
         - text: "Note: if you are not Italian and you are not an IAPS member, please contact your National Committee for your IAPS registration."
         - text: "Note: if you are a Innsbruck University student, you automatically became a IAPS member."
-        - text: "50 places are available.
-                 <br>The selected candidates will have to cover a participation fee of €70.
-                 <br>10 spots will be assigned to Trento Local Committee members who will be able to access to the event with a reduced fee (without accomodation in Trento) of 40€.
-                 <br>10 spots will be assigned to University of Innsbruck students."
-        - text: "<br> Due to the level of the program, priority will be given to students who have been attending at least the third year of bachelor and who possess a basic knowledge of Quantum Physics."
+        - text: "50 places are available."
+          subpoints:
+                 - text: "The selected candidates will have to cover a participation fee of €70."
+                 - text: "10 spots will be assigned to Trento Local Committee members who will be able to access to the event with a reduced fee (without accomodation in Trento) of 40€."
+                 - text: "10 spots will be assigned to University of Innsbruck students."
+        - text: "Due to the level of the program, priority will be given to students who have been attending at least the third year of bachelor and who possess a basic knowledge of Quantum Physics."
         - text: "The main criteria will be first came first served."
         - text: "Please note that unfortunately we are not able to provide scholarships and/or bursaries for any students at this time."
 
