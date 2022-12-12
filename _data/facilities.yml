@@ -40,7 +40,7 @@ cards:
         descr: "Accomodation in Trento will be provided at the Hotel Everest, Corso degli Alpini, 14, 38121 Trento TN"
         site: "http://www.hoteleverest.it/"
         map: "https://www.google.com/maps/place/Hotel+Everest+con+Ristorante+e+Pizzeria+a+Trento+per+famiglie+vicino+al+Muse+di+Trento+-+Soggiorni+in+Business+Hotel+Trento/@46.078476,11.1161149,17z/data=!3m1!4b1!4m8!3m7!1s0x478271304ee24c1b:0xc0cc67e069370a81!5m2!4m1!1i2!8m2!3d46.078495!4d11.1183809"
-      - img: img/facilities/hotel_innsbruck.jpg
+      - img: img/facilities/youth_hostel_innsbruck.jpg
         title: Youth Hostel Innsbruck
         tag: "hotel_innsbruck"
         descr: "Accomodation in Innsbruck will be provided at the Youth Hotel Innsbruck, Reichenauer Str. 147, 6020 Innsbruck, Austria."
