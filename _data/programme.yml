@@ -258,6 +258,6 @@ sections:
         - text: "Journeys to and from Trento to arrive at the event and leave once it is concluded"
         - text: "Lunch at Trento and the first dinner."
         - text: "Insurance"
-    - text: "Note: if you are Italian and you are not an AISF member yet you can become an AISF member at [this](https://ai-sf.it/iscrizione/) link."
+    - text: "Note: if you are Italian and you are not an AISF member yet you can become an AISF member at <a href='https://ai-sf.it/iscrizione/'>this</a> link."
     - text: "Note: if you are not Italian and you are not an IAPS member, please contact your National Committee for your IAPS registration."
     - text: "Please note that unfortunately we are not able to provide scholarships and/or bursaries for any students at this time."
