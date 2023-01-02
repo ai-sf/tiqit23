@@ -230,13 +230,13 @@ schedule:
         location:
             name: "Pizzeria"
             tag: "pizzainn"
-      - hour: "14:30"
+      - hour: "16:00"
         name: "Orientation moment"
         location:
             name: "University of Innsbruck"
             tag: "uniinn"
             room: "Room TBD"
-      - hour: "15:30"
+      - hour: "17:00"
         name: "Bus to Trento"
         details: none
 
