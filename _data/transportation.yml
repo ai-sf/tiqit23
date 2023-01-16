@@ -1,0 +1,42 @@
+description:
+    title: "How to arrive in Trento"
+    paragraphs:
+        - paragraph:
+            - line: "Trento is a difficult city to reach from airports or via train. For this reason, we created this page to help you find the easiest way to arrive in Trento."
+        - paragraph:
+            - line: "Please, if you need to arrive one day earlier and/or leave one day later, contact us."
+        - paragraph:
+            - line: "This does not contain a detailed plan but only some suggestions. Please be sure to check the official websites of <a href='https://global.flixbus.com/'>FlixBus</a>, <a href='https://www.trenitalia.com/en'>Trenitalia</a> and <a href='https://www.italotreno.it/en'>Italo</a> to check the availability of the tickets."
+
+sections:
+    - name: "Airports"
+      info: ""
+      points:
+        - text: "<b>Bergamo Orio al Serio (BGY)</b>"
+          subpoints:
+            - text: "FlixBus: Directly connected to Trento"
+            - text: "Train: Go to Bergamo City via ATB Bus. From there you will need to make at least one change to arrive in Trento."
+        - text: "<b>Bologna Guglielmo Marconi (BLQ)</b>"
+          subpoints:
+            - text: "A train will take you directly from the airport to the train station of Bologna Centrale. From there, you can choose one of the following options:"
+            - text: "FlixBus: Directly connected to Trento. The bus departs near Bologna Centrale."
+            - text: "Train: Directly connected to Trento."
+        - text: "<b>Milan Linate (LIN)</b>"
+          subpoints:
+            - text: "FlixBus: Directly connected to Trento."
+            - text: "Train: It is not well connected to Trento. First, you need to arrive at the train station of Milano Centrale. From there, you need to take one or two trains to arrive in Trento."
+        - text: "<b>Milan Malpensa (LIN)</b>"
+          subpoints:
+            - text: "FlixBus: Only one bus directly connected to Trento."
+            - text: "Train: You need to take two or three trains to arrive in Trento."
+        - text: "<b>Treviso (TSF)</b>"
+          subpoints:
+            - text: "Train: You need to take three or four trains to arrive in Trento."
+        - text: "<b>Venice Marco Polo (VCE)</b>"
+          subpoints:
+            - text: "FlixBus: Directly connected to Trento."
+            - text: "Train: A bus will take you to the station of Venezia Mestre. From there, you need to take two trains to arrive in Trento."
+        - text: "<b>Verona Catullo (VRN)</b>"
+          subpoints:
+            - text: "FlixBus: You need first to the station of Verona Porta Nuova. From there, it is directly connected to Trento."
+            - text: "Train: You need to take two trains to arrive in Trento."
