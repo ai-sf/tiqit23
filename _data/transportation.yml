@@ -25,7 +25,7 @@ sections:
           subpoints:
             - text: "FlixBus: Directly connected to Trento."
             - text: "Train: It is not well connected to Trento. First, you need to arrive at the train station of Milano Centrale. From there, you need to take one or two trains to arrive in Trento."
-        - text: "<b>Milan Malpensa (LIN)</b>"
+        - text: "<b>Milan Malpensa (MXP)</b>"
           subpoints:
             - text: "FlixBus: Only one bus directly connected to Trento."
             - text: "Train: You need to take two or three trains to arrive in Trento."
