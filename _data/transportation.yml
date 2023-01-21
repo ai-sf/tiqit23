@@ -29,14 +29,14 @@ sections:
           subpoints:
             - text: "<a href='https://shop.flixbus.co.uk/search?departureCity=40e324e7-8646-11e6-9066-549f350fcb0c&arrivalCity=40dfd6cf-8646-11e6-9066-549f350fcb0c&route=Milan+Malpensa+Airport-Trento&rideDate=26.02.2023&adult=1&_locale=en_GB&features%5Bfeature.darken_page%5D=1&features%5Bfeature.enable_distribusion%5D=1&features%5Bfeature.train_cities_only%5D=0&features%5Bfeature.add_return_date%5D=0&features%5Bfeature.add_return_date_only%5D=0&features%5Bfeature.new_north_america_products%5D=0&atb_pdid=c47733bb-d09a-45c7-ab32-09092d867cd8&_sp=03101a50-6618-457b-8f3c-95c862c7c98e&_spnuid=619c3d6b-82dc-46c4-96a0-034a94ad8fc6' target='_blank'>FlixBus</a>: Only one bus directly connected to Trento."
             - text: "<a href='https://www.lefrecce.it/Channels.Website.WEB/#/search-results?handoff=true&referrer=www.ecosia.org' target='_blank'>Train</a>: You need to take two or three trains to arrive in Trento."
-        - text: "<b><a href='' target='_blank'>Train</a>Treviso (TSF)</b>"
+        - text: "<b><a href='https://www.trevisoairport.it/en/' target='_blank'>Treviso (TSF)</a></b>"
           subpoints:
-            - text: "<a href='' target='_blank'>Train</a>Train: You need to take three or four trains to arrive in Trento."
-        - text: "<b><a href='' target='_blank'>Train</a>Venice Marco Polo (VCE)</b>"
+            - text: "<a href='https://www.lefrecce.it/Channels.Website.WEB/#/search-results?handoff=true&referrer=www.ecosia.org' target='_blank'>Train</a>: You need to take three or four trains to arrive in Trento."
+        - text: "<b><a href='https://www.veneziaairport.it/en/' target='_blank'>Venice Marco Polo (VCE)</a></b>"
           subpoints:
-            - text: "<a href='' target='_blank'>Train</a>FlixBus: Directly connected to Trento."
-            - text: "<a href='' target='_blank'>Train</a>Train: A <a href='' target='_blank'>Train</a>bus will take you to the station of Venezia Mestre. From there, you need to take two trains to arrive in Trento."
-        - text: "<b><a href='' target='_blank'>Train</a>Verona Catullo (VRN)</b>"
+            - text: "<a href='https://shop.flixbus.co.uk/search?departureCity=b2a6981d-00be-40c6-9141-57e4977b409f&arrivalCity=40dfd6cf-8646-11e6-9066-549f350fcb0c&route=Venice+Marco+Polo+Airport-Trento&rideDate=26.02.2023&adult=1&_locale=en_GB&features%5Bfeature.darken_page%5D=1&features%5Bfeature.enable_distribusion%5D=1&features%5Bfeature.train_cities_only%5D=0&features%5Bfeature.add_return_date%5D=0&features%5Bfeature.add_return_date_only%5D=0&features%5Bfeature.new_north_america_products%5D=0&atb_pdid=c47733bb-d09a-45c7-ab32-09092d867cd8&_sp=03101a50-6618-457b-8f3c-95c862c7c98e&_spnuid=619c3d6b-82dc-46c4-96a0-034a94ad8fc6' target='_blank'>FlixBus</a>: Directly connected to Trento."
+            - text: "<a href='https://www.lefrecce.it/Channels.Website.WEB/#/search-results?handoff=true&referrer=www.ecosia.org' target='_blank'>Train</a>: A <a href='https://www.veneziaairport.it/en/transport/venezia-mestre-station.html' target='_blank'>bus</a> will take you to the station of Venezia Mestre. From there, you need to take two trains to arrive in Trento."
+        - text: "<b><a href='https://www.aeroportoverona.it/en/' target='_blank'>Verona Catullo (VRN)</a></b>"
           subpoints:
-            - text: "<a href='' target='_blank'>Train</a>FlixBus: You need first to the station of Verona Porta Nuova. From there, it is directly connected to Trento."
-            - text: "<a href='' target='_blank'>Train</a>Train: You need to take two trains to arrive in Trento."
+            - text: "<a href='https://shop.flixbus.co.uk/search?departureCity=40dea1ff-8646-11e6-9066-549f350fcb0c&arrivalCity=40dfd6cf-8646-11e6-9066-549f350fcb0c&route=Verona-Trento&rideDate=26.02.2023&adult=1&_locale=en_GB&features%5Bfeature.darken_page%5D=1&features%5Bfeature.enable_distribusion%5D=1&features%5Bfeature.train_cities_only%5D=0&features%5Bfeature.add_return_date%5D=0&features%5Bfeature.add_return_date_only%5D=0&features%5Bfeature.new_north_america_products%5D=0&atb_pdid=c47733bb-d09a-45c7-ab32-09092d867cd8&_sp=03101a50-6618-457b-8f3c-95c862c7c98e&_spnuid=619c3d6b-82dc-46c4-96a0-034a94ad8fc6' target='_blank'>FlixBus</a>: You need first to arrive at the station of Verona Porta Nuova. From there, it is directly connected to Trento."
+            - text: "<a href='https://www.lefrecce.it/Channels.Website.WEB/#/search-results?handoff=true&referrer=www.ecosia.org' target='_blank'>Train</a>: You need to take two trains to arrive in Trento."
