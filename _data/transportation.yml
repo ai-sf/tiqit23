@@ -15,7 +15,7 @@ sections:
         - text: "<b>Bergamo Orio al Serio (BGY)</b>"
         - url: "https://www.milanbergamoairport.it/en/"
           subpoints:
-            - text: "<a href='https://shop.flixbus.co.uk/search?departureCity=e66b26bd-758d-4c59-ad1f-eddf72800f3e&arrivalCity=40dfd6cf-8646-11e6-9066-549f350fcb0c&route=Bergamo+Orio+al+Serio+Airport-Trento&rideDate=26.02.2023&adult=1&_locale=en_GB&features%5Bfeature.darken_page%5D=1&features%5Bfeature.enable_distribusion%5D=1&features%5Bfeature.train_cities_only%5D=0&features%5Bfeature.add_return_date%5D=0&features%5Bfeature.add_return_date_only%5D=0&features%5Bfeature.new_north_america_products%5D=0&atb_pdid=c47733bb-d09a-45c7-ab32-09092d867cd8&_sp=03101a50-6618-457b-8f3c-95c862c7c98e&_spnuid=619c3d6b-82dc-46c4-96a0-034a94ad8fc6' target="_blank">Flixbus</a>: Directly connected to Trento"
+            - text: "<a href='https://shop.flixbus.co.uk/search?departureCity=e66b26bd-758d-4c59-ad1f-eddf72800f3e&arrivalCity=40dfd6cf-8646-11e6-9066-549f350fcb0c&route=Bergamo+Orio+al+Serio+Airport-Trento&rideDate=26.02.2023&adult=1&_locale=en_GB&features%5Bfeature.darken_page%5D=1&features%5Bfeature.enable_distribusion%5D=1&features%5Bfeature.train_cities_only%5D=0&features%5Bfeature.add_return_date%5D=0&features%5Bfeature.add_return_date_only%5D=0&features%5Bfeature.new_north_america_products%5D=0&atb_pdid=c47733bb-d09a-45c7-ab32-09092d867cd8&_sp=03101a50-6618-457b-8f3c-95c862c7c98e&_spnuid=619c3d6b-82dc-46c4-96a0-034a94ad8fc6' target='_blank'>Flixbus</a>: Directly connected to Trento"
             - text: "Train: Go to Bergamo City via ATB Bus. From there you will need to make at least one change to arrive in Trento."
         - text: "<b>Bologna Guglielmo Marconi (BLQ)</b>"
           subpoints:
