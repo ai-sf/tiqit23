@@ -65,7 +65,7 @@ schedule:
         location:
             name: "Physics Department"
             tag: "physunitn"
-            subactivities:
+        subactivities:
             -  title: "Cooling, trapping and imaging quantum gases"
                people:
                    name: "dott. Alessandro Zenesini"
@@ -78,7 +78,7 @@ schedule:
             name: "Physics Department"
             tag: "physunitn"
             room: "BEC laboratories"
-            subactivities:
+        subactivities:
             -  title: "Quantum gases LAB tour"
                people:
                    name: "prof. Giacomo Lamporesi, prof. Gabriele Ferrari"
