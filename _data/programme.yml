@@ -25,40 +25,59 @@ schedule:
             name: "Physics Department"
             tag: "physunitn"
             room: "Room TBD"
-      - hour: "11:30"
-        name: "Plenary Lecture"
+      - hour: "11:20"
+        name: "Quantum Monte Carlo and ultracold gases, prof. Giorgini"
         location:
             name: "Physics Department"
             tag: "physunitn"
-            room: "Room TBD"
+      - hour: "11:35"
+        name: "Multicomponent gases, prof. Recati"
+        location:
+            name: "Physics Department"
+            tag: "physunitn"
+      - hour: "11:50"
+        name: "Analog gravity in fluid of atoms or light, prof. Carusotto"
+        location:
+            name: "Physics Department"
+            tag: "physunitn"
+      - hour: "12:10"
+        name: "Theory of Quantum technologies: from quantum simulation to optimization, prof. Hauke"
+        location:
+            name: "Physics Department"
+            tag: "physunitn"
+      - hour: "12.30"
+        name: "Q, prof. Rastelli"
+        location:
+            name: "Physics Department"
+            tag: "physunitn"
+      - hour: "12.45"
+        name: "Open Quantum Systems: from cold atoms to quantum computing, prof. Biella"
+        location:
+            name: "Physics Department"
+            tag: "physunitn"
       - hour: "13:00"
         name: "Lunch"
         location:
             name: "Physics Department"
             tag: "physunitn"
+      - hour: "14.30"
+        name: "Cooling trapping and imaging quantum gases, prof. Zenesini"
+        location:
+            name: "Physics Department"
+            tag: "physunitn"
 
-      - hour: "14:30"
-        name: "Visit to BEC Group labs"
+      - hour: "15:30"
+        name: "Quantum gases Lab tour, prof. Lamporesi and prof. Ferrari"
         group: "BEC"
         location:
             name: "Physics Department"
             tag: "physunitn"
-            room: "Room TBD"
             
       - hour: "16:00"
         name: "Coffee Break"
         location:
             name: "Physics Department"
             tag: "physunitn"
-            room: "Room TBD"
-
-      - hour: "16:30"
-        name: "Lectures by BEC group"
-        group: "BEC"
-        location:
-            name: "Physics Department"
-            tag: "physunitn"
-            room: "BEC laboratories"
 
       - hour: "18:00"
         name: "Check-in"
