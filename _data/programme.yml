@@ -106,7 +106,7 @@ schedule:
     date: "28/02/2023"
     location: "Trento"
     activity:
-      -hour: "9:00"
+      - hour: "9:00"
         name: "Plenary lecture"
         location:
             name: "Physics Department"
@@ -192,14 +192,14 @@ schedule:
         location:
             name: "Physics Department"
             tag: "physunitn"
-            room: "Room TBD"
+            room: "TBD"
 
       - hour: "19:30"
         name: "Dinner"
         location:
             name: "TBD"
             tag: "TBD"
-            room: "Room TBD"
+            room: "TBD"
         
         
   - day: "Wednesday"
