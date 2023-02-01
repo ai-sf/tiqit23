@@ -82,7 +82,7 @@ schedule:
             -  title: "Quantum gases LAB tour"
                people:
                    name: "prof. Giacomo Lamporesi, prof. Gabriele Ferrari"
-                   tag: "zenesini"
+                   tag: "lamporesi", "ferrari"
             
       - hour: "16:00"
         name: "Coffee Break"
@@ -107,13 +107,25 @@ schedule:
     date: "28/02/2023"
     location: "Trento"
     activity:
-      - hour: "9:00"
-        name: "Lectures by NanoLabs Group"
-        group: "nanolabs"
+      -hour: "9:00"
+        name: "Plenary lecture"
         location:
             name: "Physics Department"
             tag: "physunitn"
-            room: "Room TBD"
+            room: "TBD"
+        subactivities:
+            -  title: "Introduction to the Nanoscience Laboratory and its activity"
+               people:
+                   name: "prof. Lorenzo Pavesi"
+                   tag: "pavesi"
+            -  title: "Quantum photon sources"
+               people:
+                   name: "prof. Stefano Azzini"
+                   tag: "azzini"
+            -  title: "Quantum security with single particle entanglement"
+               people:
+                   name: "dott. Nicolò Leone"
+                   tag: "leone"
         
       - hour: "10:45"
         name: "Coffee break"
@@ -122,7 +134,7 @@ schedule:
             tag: "physunitn"
 
       - hour: "11:15"
-        name: "Visit to NanoLabs Group Labs"
+        name: "Visit to NanoLabs laboratories"
         location:
             name: "NanoLabs"
             tag: "nanolabs"
@@ -131,27 +143,45 @@ schedule:
         name: "Lunch"
 
       - hour: "14:30"
-        name: "Visit to FBK"
-        group: "FBK"
+        name: "FBK plenary lectures"
         location:
             name: "FBK"
             tag: "fbk"
-            room: "Room TBD"
+            room: "TBD"
         
+      - hour: "15:10"
+        name: "FBK lab tour"
+        location:
+            name: "FBK"
+            tag: "fbk"
+            room: "FBK Laboratories"
+      
       - hour: "16:00"
         name: "Coffee break"
         location:
             name: "Physics Department"
             tag: "physunitn"
-            room: "Room TBD"
+            room: "TBD"
 
       - hour: "16:30"
-        name: "Talks by NanoLabs Group"
-        group: "nanolabs"
+        name: "Plenary lectures"
         location:
             name: "Physics Department"
             tag: "physunitn"
-            room: "Laboratories"
+            room: "TBD"
+        subactivities:
+            -  title: "Quantum simulator integrated in photonic circuits"
+               people:
+                   name: "dott Alessio Baldazzi"
+                   tag: "baldazzi"
+            -  title: "Quantum ghost spectroscopy for MIR sensing"
+               people:
+                   name: "dot. Matteo Sanna"
+                   tag: "sanna"
+            -  title: "Undetected photon spectroscopy on chip"
+               people:
+                   name: "dott. Chiara Michelini"
+                   tag: "michelini"
 
       - hour: "18:00"
         name: "Orientation moment"
