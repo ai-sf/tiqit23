@@ -60,6 +60,7 @@ schedule:
         location:
             name: "Physics Department"
             tag: "physunitn"
+            
       - hour: "14.30"
         name: "Plenary Lecture"
         location:
@@ -73,7 +74,6 @@ schedule:
 
       - hour: "15:30"
         name: "Visit to BEC laboratories"
-        group: "nanolab"
         location:
             name: "Physics Department"
             tag: "physunitn"
@@ -131,15 +131,20 @@ schedule:
         location:
             name: "Physics Department"
             tag: "physunitn"
+            room: "TBD"
 
       - hour: "11:15"
         name: "Visit to NanoLabs laboratories"
         location:
             name: "NanoLabs"
             tag: "nanolabs"
+            room: "Nanolabs Laboratories"
 
       - hour: "13:00"
         name: "Lunch"
+        location:
+            name: "Physics Department"
+            tag: "physunitn"
 
       - hour: "14:30"
         name: "FBK plenary lectures"
