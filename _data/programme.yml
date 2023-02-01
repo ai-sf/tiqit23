@@ -82,7 +82,6 @@ schedule:
             -  title: "Quantum gases LAB tour"
                people:
                    name: "prof. Giacomo Lamporesi, prof. Gabriele Ferrari"
-                   tag: "lamporesi", "ferrari"
             
       - hour: "16:00"
         name: "Coffee Break"
