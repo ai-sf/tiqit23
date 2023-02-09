@@ -206,65 +206,90 @@ schedule:
     date: "01/03/2023"
     location: "Innsbruck"
     activity:
-      - hour: "6:00"
+      - hour: "6:30"
         name: "Check out and departure from Trento"
         location:
             name: "Hotel Everest"
             tag: "hoteltrento"
       - hour: "8:30"
-        name: "Arrival at Innsbruck"
+        name: "Welcome at IQOQI with welcome coffee"
         details: none
-      - hour: "9:00"
+        people:
+            name: "prof. Ferlaino and prof. Grimm"
+      - hour: "9:30"
         name: "IQOQI Lab tour (Part I)"
         location:
             name: "IQOQI"
             tag: "iqoqi"
-            room: "Room TBD"
-      - hour: "10:30"
-        name: "Coffee break"
-        location:
-            name: "IQOQI"
-            tag: "iqoqi"
-            room: "Room TBD"
+            room: "IQOQI Laboratories"
       - hour: "11:00"
-        name: "Plenary lecture"
+        name: "Plenary lectures"
         location:
             name: "IQOQI"
             tag: "iqoqi"
             room: "Room TBD"
-      - hour: "12:30"
+        subactivities: 
+            -   title: "Dipolar Quantum Gases"
+                people:
+                    name: "prof. Francesca Ferlaino"
+                    tag: "ferlaino"
+            -   title: "Storingly Interacting Mixtures"
+                people:
+                    name: "prof. Rudolf Grimm"
+                    tag: "grimm"
+            -   title: "Quantum Mechanics XXL"
+                people:
+                    name: "prof. Oriol Romero-Isart"
+                    tag: "romero-isart"
+      - hour: "13.00"
         name: "Lunch"
         location:
             name: "IQOQI"
             tag: "iqoqi"
-            room: "Room TBD"
-      - hour: "14:00"
-        name: "Plenary lecture"
+            room: "IQOQI Mensa"
+      - hour: "14.30"
+        name: "Group Photo"
         location:
             name: "IQOQI"
             tag: "iqoqi"
             room: "Room TBD"
-      - hour: "15:30"
-        name: "Coffee break"
+      - hour: "15:00"
+        name: "Plenary lectures"
         location:
             name: "IQOQI"
             tag: "iqoqi"
             room: "Room TBD"
-      - hour: "16:00"
-        name: "Lab Tour at IQOQI (Part II)"
+        subactivities:
+            -   title: "Quantum Optics and Many-Body Physics"
+                people:
+                    name: "prof. Robert Ott"
+                    tag: "ott"
+            -   title: "Quantum Optics and Quantum Information Schroedingersaal"
+                people:
+                    name: "prof. Torsten Zache"
+                    tag: "zache"
+    -   hour: "16:00"
+        name: "Coffee Break"
         location:
             name: "IQOQI"
             tag: "iqoqi"
-            room: "Room TBD"
-      - hour: "18:00"
+            room: "TBD"
+    -   hour: "16:30"
+        name: "IQOQI Lab tour (Part II)"
+        location:
+            name: "IQOQI"
+            tag: "iqoqi"
+            room: "IQOQI Laboratories"
+      
+      - hour: "19:00"
         name: "Check in at the hotel"
         location:
-            name: "Hotel Tautermann"
+            name: "Hotel Jugendherberge"
             tag: "hotel_innsbruck"
-      - hour: "19:30"
-        name: "Social Dinner"
+      - hour: "20:30"
+        name: "Dinner"
         location:
-            name: "Innsbruck Restaurant"
+            name: "Elfriede"
             tag: "resinnsbruck"
 
 
@@ -273,35 +298,47 @@ schedule:
     location: "Innsbruck"
     activity:
       - hour: "09:00"
-        name: "Talks"
+        name: "Plenary lectures"
         location:
             name: "University of Innsbruck"
             tag: "uniinn"
             room: "Room TBD"
-      - hour: "10:30"
+        subactivities: 
+            -   title: "Form Circuits to Quantum Circuits. How to build superconducting Qubits"
+                people:
+                    name: "prof. Gherard Kirchmair"
+                    tag: "kirchmair"
+            -   title: "Quantum Optics and Spectroscopy"
+                people:
+                    name: "prof. Christian Roos"
+                    tag: "roos"
+      - hour: "10:00"
         name: "Coffee break"
         location:
             name: "University of Innsbruck"
             tag: "uniinn"
             room: "Room TBD"
-      - hour: "11:00"
-        name: "University of Innsbruck Lab Tour"
+     -   hour: "10:30"
+        name: "University Lab tour (Part II)"
         location:
-            name: "University of Innsbruck"
-            tag: "uniinn"
-            room: "Room TBD"
+            name: "IQOQI"
+            tag: "iqoqi"
+            room: "Innsbruck Laboratories"
       - hour: "13:00"
         name: "Pizza lunch with the students of Innsbruck"
         location:
             name: "Pizzeria"
             tag: "pizzainn"
-      - hour: "16:00"
-        name: "Orientation moment"
+      - hour: "14:30"
+        name: "Open discussion"
         location:
             name: "University of Innsbruck"
             tag: "uniinn"
             room: "Room TBD"
-      - hour: "17:00"
+        people: 
+            name: "prof. Ferlaino"
+            tag: "ferlaino"
+      - hour: "16:00"
         name: "Bus to Trento"
         details: none
 
