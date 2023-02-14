@@ -229,25 +229,25 @@ schedule:
             tag: "iqoqi"
             room: "Room TBD"
         subactivities: 
-            -   title: "Dipolar Quantum Gases"
-                people:
-                    name: "prof. Francesca Ferlaino"
-                    tag: "ferlaino"
-            -   title: "Storingly Interacting Mixtures"
-                people:
-                    name: "prof. Rudolf Grimm"
-                    tag: "grimm"
+            -  title: "Dipolar Quantum Gases"
+               people:
+                  name: "prof. Francesca Ferlaino"
+                  tag: "ferlaino"
+            -  title: "Storingly Interacting Mixtures"
+               people:
+                  name: "prof. Rudolf Grimm"
+                  tag: "grimm"
             -   title: "Quantum Mechanics XXL"
                 people:
-                    name: "prof. Oriol Romero-Isart"
-                    tag: "romero-isart"
-      - hour: "13.00"
+                  name: "prof. Oriol Romero-Isart"
+                  tag: "romero-isart"
+      - hour: "13:00"
         name: "Lunch"
         location:
             name: "IQOQI"
             tag: "iqoqi"
             room: "IQOQI Mensa"
-      - hour: "14.30"
+      - hour: "14:30"
         name: "Group Photo"
         location:
             name: "IQOQI"
@@ -268,19 +268,18 @@ schedule:
                 people:
                     name: "prof. Torsten Zache"
                     tag: "zache"
-    -   hour: "16:00"
+      - hour: "16:00"
         name: "Coffee Break"
         location:
             name: "IQOQI"
             tag: "iqoqi"
             room: "TBD"
-    -   hour: "16:30"
+      - hour: "16:30"
         name: "IQOQI Lab tour (Part II)"
         location:
             name: "IQOQI"
             tag: "iqoqi"
             room: "IQOQI Laboratories"
-      
       - hour: "19:00"
         name: "Check in at the hotel"
         location:
@@ -318,7 +317,7 @@ schedule:
             name: "University of Innsbruck"
             tag: "uniinn"
             room: "Room TBD"
-     -   hour: "10:30"
+      - hour: "10:30"
         name: "University Lab tour (Part II)"
         location:
             name: "IQOQI"
