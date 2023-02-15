@@ -12,7 +12,7 @@ description:
         - paragraph:
             - line: "You can find the detailed program below, which will be constantly updated"
 
-last_update: 01/02/2023
+last_update: 15/02/2023
 
 schedule:
   - day: "Monday"
@@ -42,8 +42,12 @@ schedule:
                    tag: "recati"
             -  title: "Analog gravity in fluids of atoms or light"
                people:
-                   name: "prof. Philipp Hauke"
-                   tag: "hauke"
+                   name: "prof. Iacopo Carusotto"
+                   tag: "carusotto"
+            -   title: "Theory of Quantum technologies: from quantum simulation to optimization"
+                people:
+                    name: "prof. Philipp Hauke"
+                    tag: "hauke"
             -  title: "Engineered and hybrid quantum systems"
                people:
                    name: "dott. Gianluca Rastelli"
