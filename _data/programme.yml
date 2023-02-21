@@ -12,7 +12,7 @@ description:
         - paragraph:
             - line: "You can find the detailed program below, which will be constantly updated"
 
-last_update: 15/02/2023
+last_update: 21/02/2023
 
 schedule:
   - day: "Monday"
@@ -38,11 +38,11 @@ schedule:
                    tag: "giorgini"
             -  title: "Multicomponent gases"
                people:
-                   name: "prof. Alessio Recati"
+                   name: "dr. Alessio Recati, Senior Researcher"
                    tag: "recati"
             -  title: "Analog gravity in fluids of atoms or light"
                people:
-                   name: "prof. Iacopo Carusotto"
+                   name: "dr. Iacopo Carusotto, Senior Director"
                    tag: "carusotto"
             -   title: "Theory of Quantum technologies: from quantum simulation to optimization"
                 people:
@@ -50,11 +50,11 @@ schedule:
                     tag: "hauke"
             -  title: "Engineered and hybrid quantum systems"
                people:
-                   name: "dott. Gianluca Rastelli"
+                   name: "dr. Gianluca Rastelli, Researcher"
                    tag: "rastelli"
             -  title: "Open Quantum Systems: from cold atoms to quantum computing"
                people:
-                   name: "dott. Alberto Biella"
+                   name: "dr. Alberto Biella, Researcher"
                    tag: "biella"
            
         
@@ -73,7 +73,7 @@ schedule:
         subactivities:
             -  title: "Cooling, trapping and imaging quantum gases"
                people:
-                   name: "dott. Alessandro Zenesini"
+                   name: "dr. Alessandro Zenesini, Researcher"
                    tag: "zenesini"
 
       - hour: "15:30"
@@ -127,7 +127,7 @@ schedule:
                    tag: "azzini"
             -  title: "Quantum security with single particle entanglement"
                people:
-                   name: "dott. Nicolò Leone"
+                   name: "dr. Nicolò Leone, Postdoc"
                    tag: "leone"
         
       - hour: "10:45"
@@ -180,15 +180,15 @@ schedule:
         subactivities:
             -  title: "Quantum simulator integrated in photonic circuits"
                people:
-                   name: "dott Alessio Baldazzi"
+                   name: "dr. Alessio Baldazzi, Postdoc"
                    tag: "baldazzi"
             -  title: "Quantum ghost spectroscopy for MIR sensing"
                people:
-                   name: "dot. Matteo Sanna"
+                   name: "Matteo Sanna, PhD Student"
                    tag: "sanna"
             -  title: "Undetected photon spectroscopy on chip"
                people:
-                   name: "dott. Chiara Michelini"
+                   name: "Chiara Michelini, PhD Student"
                    tag: "michelini"
 
       - hour: "18:00"
@@ -266,11 +266,11 @@ schedule:
         subactivities:
             -   title: "Quantum Optics and Many-Body Physics"
                 people:
-                    name: "prof. Robert Ott"
+                    name: "dr. Robert Ott, Postdoc"
                     tag: "ott"
             -   title: "Quantum Optics and Quantum Information Schroedingersaal"
                 people:
-                    name: "prof. Torsten Zache"
+                    name: "dr. Torsten Zache, Postdoc"
                     tag: "zache"
       - hour: "16:00"
         name: "Coffee Break"
@@ -313,7 +313,7 @@ schedule:
                     tag: "kirchmair"
             -   title: "Quantum Optics and Spectroscopy"
                 people:
-                    name: "prof. Christian Roos"
+                    name: "dr. Christian Roos, Senior Scientist"
                     tag: "roos"
       - hour: "10:00"
         name: "Coffee break"
