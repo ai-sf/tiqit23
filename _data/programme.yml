@@ -202,9 +202,9 @@ schedule:
       - hour: "19:30"
         name: "Dinner"
         location:
-            name: "TBD"
-            tag: "TBD"
-            room: "TBD"
+            name: "Rosa D'Oro"
+            tag: "rosadoro"
+            room: "Rosa D'Oro"
         
         
   - day: "Wednesday"
