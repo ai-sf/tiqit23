@@ -24,13 +24,13 @@ schedule:
         location:
             name: "Physics Department"
             tag: "physunitn"
-            room: "Room TBD"
+            room: "Room A101 (Aula Magna)"
       - hour: "11:20"
         name: "Plenary Lecture"
         location:
             name: "Physics Department"
             tag: "physunitn"
-            room: "Room TBD"
+            room: "Room A209"
         subactivities:
             -  title: "Quantum Monte Carlo and ultracold atoms"
                people:
@@ -70,6 +70,7 @@ schedule:
         location:
             name: "Physics Department"
             tag: "physunitn"
+            room: "Room A106"
         subactivities:
             -  title: "Cooling, trapping and imaging quantum gases"
                people:
@@ -92,7 +93,7 @@ schedule:
         location:
             name: "Physics Department"
             tag: "physunitn"
-            room: "TBD"
+            room: "Ex aula tesi"
 
       - hour: "18:00"
         name: "Check-in"
@@ -115,7 +116,7 @@ schedule:
         location:
             name: "Physics Department"
             tag: "physunitn"
-            room: "TBD"
+            room: "Room A206"
         subactivities:
             -  title: "Introduction to the Nanoscience Laboratory and its activity"
                people:
@@ -135,7 +136,7 @@ schedule:
         location:
             name: "Physics Department"
             tag: "physunitn"
-            room: "TBD"
+            room: "Ex aula tesi"
 
       - hour: "11:15"
         name: "Visit to NanoLabs laboratories"
@@ -155,7 +156,7 @@ schedule:
         location:
             name: "FBK"
             tag: "fbk"
-            room: "TBD"
+            room: "Room A107"
         
       - hour: "15:10"
         name: "FBK lab tour"
@@ -169,14 +170,14 @@ schedule:
         location:
             name: "Physics Department"
             tag: "physunitn"
-            room: "TBD"
+            room: "FBK (atrium)"
 
       - hour: "16:30"
         name: "Plenary lectures"
         location:
             name: "Physics Department"
             tag: "physunitn"
-            room: "TBD"
+            room: "Room A206"
         subactivities:
             -  title: "Quantum simulator integrated in photonic circuits"
                people:
