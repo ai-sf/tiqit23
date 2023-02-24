@@ -82,9 +82,9 @@ schedule:
         location:
             name: "Physics Department"
             tag: "physunitn"
-            room: "BEC laboratories"
+            room: "CNR-University Laboratories"
         subactivities:
-            -  title: "Quantum gases LAB tour"
+            -  title: "CNR-University Lab tour"
                people:
                    name: "prof. Giacomo Lamporesi, prof. Gabriele Ferrari"
             
