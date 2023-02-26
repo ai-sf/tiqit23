@@ -39,3 +39,6 @@ cards:
         - title: "Italien-Zentrum"
           site: "https://www.uibk.ac.at/italienzentrum/index.html.it"
           img: "img/sponsors/itzentrum.jpg"
+        - title: "IAPS"
+          site: "https://www.iaps.info/"
+          img: "img/sponsors/logo-iaps.jpg"
